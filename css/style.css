@@ -1,0 +1,175 @@
+body{
+	margin: 0;
+}
+
+.header {
+	position: relative;
+ background-image: url(img/magePrincipale.jpg);
+ margin-bottom: 0;
+}
+
+.lien{
+text-decoration: none;
+color: white;
+}
+
+.lien :hover{
+	border-top: 2.5px;
+	border-color: blue;
+}
+
+#logo {
+	display: inline-block;
+	position: relative;
+	top: 20px;
+	left : 80px;
+}
+
+#texteLogo{
+	display: inline-block;
+	position: absolute;
+	left: 200px;
+	top : 10px;
+	color: #546365;
+}
+
+.menu{
+	display: inline-block;
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	color: white;
+}
+#menu {
+	display: inline-block;
+	color:white;
+	margin-right: 10px;
+	top: 20px;
+}
+
+#contenant{
+	display: inline-block;
+}
+
+h1{
+
+   text-align: center;
+   position: relative;
+   top: 100px;
+   font-size: 50px;
+   color: white;
+   font-weight: normal;
+   margin-bottom: 30px;
+}
+
+h2{
+	text-align: center;
+}
+
+#textMilieu{
+ position: relative;
+ text-align: center;
+}
+
+#vert{
+	color:#0fda93;
+	display: inline-block;
+}
+
+#textVert{
+	display: inline-block;
+	font-size: 40px;
+	color: white;
+	}
+
+.tiret{
+	color :#0fda93;
+	position: absolute;
+	display: inline-block;
+	left: 531px;
+	bottom: 45px;
+}
+
+.tiret2{
+	color :#0fda93;
+	position: absolute;
+	display: inline-block;
+	right: 531px;
+	bottom: 45px;
+
+}
+
+#weare{
+   color: white;
+   font-size: 15px;
+}
+
+#social {
+	margin-left: 45%;
+	margin-right: 45%;
+	margin-bottom: 10px;
+	
+}
+
+#section2{ 
+	background-color: #f4f7f9;
+	margin-top: 0;
+}
+
+#filet{
+    text-align: center;
+}
+
+#asidediv{
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+#rond{
+	border : solid 1px;
+ border-radius: 50%;
+ color: #13b695;
+}
+
+#aside1
+{
+	display: inline-block;
+	margin-right: 50px;
+	width :250px;
+	margin-left: 10px;
+}
+
+#aside2
+{
+	display: inline-block;
+	margin-right: 50px;
+	width :250px;
+}
+
+#aside3
+{
+	display: inline-block;
+	width :250px;
+	margin-right: 10px;
+}
+
+#section3{
+
+}
+
+h4{
+	text-align: center;
+}
+
+#photos{
+ text-align: center;
+ display: inline-block;
+	
+}
+
+#inline
+{
+	display: inline-block;
+}
